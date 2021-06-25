@@ -1,0 +1,12 @@
+Data/checkpoints/**
+Data/WordLevel_EmbWeights
+Data/WordLevel_TrainAndTestData_PDinfo_Light
+Data/WordLevel_TrainAndTestData
+Data/TrainAndTestSplits
+Data/PredCorr_Train
+
+#Data/arcsintransform
+#Data/PredCorr_Test
+
+
+
