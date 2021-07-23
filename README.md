@@ -1,5 +1,5 @@
 # STiMCON 
-This repository describes the scripts from the paper <i>Ten Oever & Martin (2021), Tracking of pseudo-rhythmic speech is modulated by linguistic predictions in an oscillating computational model</i>
+This repository describes the scripts from the paper <i>Ten Oever & Martin (2021), Tracking of pseudo-rhythmic speech is modulated by linguistic predictions in an oscillating computational model, Elife, DOI: https://doi.org/10.7554/eLife.68066 </i> 
 
 ## Explanation
 The repository consists of scripts belonging to the Corpus Gesproken Nederlands (CGN), simulations and fitting with STiMCON
