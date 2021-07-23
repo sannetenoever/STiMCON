@@ -1,6 +1,6 @@
 # STiMCON 
 This repository describes the scripts from the paper <i>Ten Oever & Martin (2021), An oscillating computational model can
-track pseudo-rhythmic speech by using linguistic predictions, Elife, DOI: https://doi.org/10.7554/eLife.68066 </i> 
+track pseudo-rhythmic speech by using linguistic predictions, Elife, 10:e68066. DOI: https://doi.org/10.7554/eLife.68066 </i> 
 
 ## Explanation
 The repository consists of scripts belonging to the Corpus Gesproken Nederlands (CGN), simulations and fitting with STiMCON
